@@ -1,0 +1,20 @@
+mkdir src
+mkdir src/backend
+touch src/backend/__init__.py
+mkdir src/backend/api
+touch src/backend/api/__init__.py
+mkdir src/backend/api/auth
+touch src/backend/api/auth/__init__.py
+mkdir src/backend/api/widgets
+touch src/backend/api/widgets/__init__.py
+mkdir src/backend/models
+touch src/backend/models/__init__.py
+mkdir src/backend/utils
+touch src/backend/utils/__init__.py
+mkdir src/backend/instance
+touch src/backend/instance/config.py
+mkdir src/backend/tests
+touch src/backend/tests/__init__.py
+touch src/backend/tests/test_config.py
+mkdir src/frontend
+echo "200, OK - Directories successfully created!"

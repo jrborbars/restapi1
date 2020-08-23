@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+setup.py
+src/Flask_API_Boilerplate.egg-info/PKG-INFO
+src/Flask_API_Boilerplate.egg-info/SOURCES.txt
+src/Flask_API_Boilerplate.egg-info/dependency_links.txt
+src/Flask_API_Boilerplate.egg-info/requires.txt
+src/Flask_API_Boilerplate.egg-info/top_level.txt
+src/backend/__init__.py
+src/backend/api/__init__.py
+src/backend/api/auth/__init__.py
+src/backend/api/widgets/__init__.py
+src/backend/models/__init__.py
+src/backend/tests/__init__.py
+src/backend/tests/test_config.py
+src/backend/utils/__init__.py
